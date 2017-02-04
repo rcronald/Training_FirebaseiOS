@@ -1,0 +1,7 @@
+
+Convierte codigo objc a swift
+https://objectivec2swift.com/#/home/main
+
+
+Tickets -> tiene el ejemplo completo
+Entradas -> Es con el que aprendo
